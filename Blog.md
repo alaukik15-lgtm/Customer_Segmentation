@@ -1,4 +1,4 @@
-# CUSTOMER SEGMENTATION ANALYSIS FOR RETAIL SALES
+# <p align = 'center'>CUSTOMER SEGMENTATION ANALYSIS FOR RETAIL SALES</p>
 ![pic](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Images/Customer%20Segmentation.png?raw=true)
 ## PROJECT OVERVIEW
 In this project, I have explored a sales dataset and performed various analyses and drew insights from customer's past purchase behavior by RFM technique customer segmentation using SQL and built a sales dashboard in Tableau. At the end, provided business solutions by analysing the segments of customers and products to improve the sales.
@@ -30,7 +30,7 @@ SELECT CUSTOMERNAME, rfm_recency, rfm_frequency, rfm_monetary,
 FROM #rfm
 ```
 
-## [Tableau Dashboard](https://public.tableau.com/app/profile/arjunan.k.com/viz/CustomerSegmentationSalesDashboard/SalesDashboard1?publish=yes)
+## [Tableau Dashboard](https://public.tableau.com/app/profile/arjunan.k.com/viz/CustomerSegmentationSalesDashboard/SalesDashboard1)
 * Sales Dashboard 1
 
 ![pic](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Images/SD1.png?raw=true)
@@ -39,7 +39,7 @@ FROM #rfm
 ![pic](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Images/SD2.png?raw=true)
 
 
-# BUSINESS SOLUTIONS FOR THE CUSTOMER & PRODUCT SEGMENTATION
+# <p align = 'center'>BUSINESS SOLUTIONS FOR THE CUSTOMER & PRODUCT SEGMENTATION</p>
 After Customer Segmentation and Products Grouping using SQL, We will be having different segments of customers and groups of sold together products. 
 So our aim is to bring back Customers and increase sales of brought together Products. 
 I will be providing general business solutions for retail sales along with our Vehicle Product Sales in data.
@@ -85,4 +85,4 @@ I will be providing general business solutions for retail sales along with our V
 * Show them other Replacement Options by other companies.
 * Provide such items near Billing Sections, so that they can remember easily.
 
-# THANK YOU
+# <p align = 'center'>THANK YOU</p>
